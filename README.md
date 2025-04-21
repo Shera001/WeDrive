@@ -31,7 +31,7 @@ development tools and clean architecture principles.
 
 # 1. Clone the project
 
-git clone https://github.com/yourusername/wallet-app.git
+git clone https://github.com/Shera001/WeDrive.git
 
 # 2. Open the project in Android Studio
 
