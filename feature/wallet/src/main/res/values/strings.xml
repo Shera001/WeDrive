@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallet">Wallet</string>
+    <string name="balance">Balance</string>
+    <string name="identification_required">Identification required</string>
+    <string name="add_promo_code">Add Promo code</string>
+    <string name="cash">Cash</string>
+    <string name="card">Card **** %s</string>
+    <string name="add_card">Add new card</string>
+    <string name="enter_promo_code">Enter Promo Code</string>
+    <string name="save">Save</string>
+    <string name="retry">Retry</string>
+    <string name="error_message">Something went wrong. Please try again</string>
+</resources>

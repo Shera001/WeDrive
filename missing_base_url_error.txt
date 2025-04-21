@@ -1,0 +1,9 @@
+❌ BASE_URL is missing in local.properties!
+
+To fix this:
+1. Open the local.properties file in the root of your project.
+2. Add the following line (replace with your actual base URL):
+
+   BASE_URL=https://your-api-url.com
+
+3. Sync the project again.
